@@ -95,6 +95,7 @@ JAYATI SHRIVASTAVA
 - [Cesar A. Perez] (https://github.com/PerezArmando)
 - [Antonio Amat] (https://github.com/AstroAmat)
 - [Antonio Arroyave] (https://github.com/AntonioArroyave)
+- [Smriti Priya](https://github.com/smriti111)
 - [alli] (https://github.com/alli-c)
 - [Gerson Santos] (https://github.com/GSantos23)
 - [Anthony Pereira] (https://github.com/anfornee)
